@@ -11,6 +11,7 @@
 - [Advanced SiLK Analysis FloCon 2014](https://resources.sei.cmu.edu/asset_files/Presentation/2014_017_001_90123.pdf)
 - [Network Traffic Analysis - SiLK](https://resources.sei.cmu.edu/asset_files/Presentation/2016_017_001_450656.pdf)
 - [SILK Analysis Handbook](https://www.scribd.com/document/83427011/SILK-Analysis-Handbook)
+- [Dockerfile (logan2211)](https://github.com/logan2211/docker-silk/blob/master/Dockerfile)
 
 ```bash
   $ cd ~/github/sieferos/security-insights/SiLK/ && docker build -t silk:custom .

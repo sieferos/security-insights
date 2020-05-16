@@ -3,6 +3,7 @@
 # Based on Ubuntu
 #
 # Thanks to https://github.com/redjack/docker-silk
+# https://github.com/logan2211/docker-silk/blob/master/Dockerfile
 ##################################################
 
 ### FROM ubuntu:trusty
